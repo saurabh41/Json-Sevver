@@ -33,40 +33,5 @@
     "address": "654 Birch Boulevard, Gotham",
     "phoneNumber": "555-666-7788",
     "position": "Product Owner"
-  },
-  {
-    "firstName": "Frank",
-    "lastName": "Nguyen",
-    "address": "987 Walnut Street, Central City",
-    "phoneNumber": "555-999-0001",
-    "position": "Backend Developer"
-  },
-  {
-    "firstName": "Grace",
-    "lastName": "Martinez",
-    "address": "159 Elm Drive, Coast City",
-    "phoneNumber": "555-234-5678",
-    "position": "Frontend Developer"
-  },
-  {
-    "firstName": "Henry",
-    "lastName": "Khan",
-    "address": "753 Aspen Court, Hill Valley",
-    "phoneNumber": "555-876-5432",
-    "position": "DevOps Engineer"
-  },
-  {
-    "firstName": "Isla",
-    "lastName": "Patel",
-    "address": "852 Poplar Street, Smallville",
-    "phoneNumber": "555-321-4321",
-    "position": "Business Analyst"
-  },
-  {
-    "firstName": "Jack",
-    "lastName": "Wilson",
-    "address": "147 Fir Circle, Emerald City",
-    "phoneNumber": "555-444-5555",
-    "position": "Scrum Master"
   }
 ]
