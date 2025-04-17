@@ -1,14 +1,82 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "address": "123 Maple Street, Springfield",
+    "phoneNumber": "555-123-4567",
+    "position": "Software Engineer"
+  },
+  {
+    "id": 2,
+    "firstName": "Bob",
+    "lastName": "Smith",
+    "address": "456 Oak Avenue, Riverdale",
+    "phoneNumber": "555-987-6543",
+    "position": "Project Manager"
+  },
+  {
+    "id": 3,
+    "firstName": "Catherine",
+    "lastName": "Lee",
+    "address": "789 Pine Road, Metropolis",
+    "phoneNumber": "555-111-2233",
+    "position": "UI/UX Designer"
+  },
+  {
+    "id": 4,
+    "firstName": "David",
+    "lastName": "Brown",
+    "address": "321 Cedar Lane, Star City",
+    "phoneNumber": "555-333-4455",
+    "position": "QA Analyst"
+  },
+  {
+    "id": 5,
+    "firstName": "Emma",
+    "lastName": "Garcia",
+    "address": "654 Birch Boulevard, Gotham",
+    "phoneNumber": "555-666-7788",
+    "position": "Product Owner"
+  },
+  {
+    "id": 6,
+    "firstName": "Frank",
+    "lastName": "Nguyen",
+    "address": "987 Walnut Street, Central City",
+    "phoneNumber": "555-999-0001",
+    "position": "Backend Developer"
+  },
+  {
+    "id": 7,
+    "firstName": "Grace",
+    "lastName": "Martinez",
+    "address": "159 Elm Drive, Coast City",
+    "phoneNumber": "555-234-5678",
+    "position": "Frontend Developer"
+  },
+  {
+    "id": 8,
+    "firstName": "Henry",
+    "lastName": "Khan",
+    "address": "753 Aspen Court, Hill Valley",
+    "phoneNumber": "555-876-5432",
+    "position": "DevOps Engineer"
+  },
+  {
+    "id": 9,
+    "firstName": "Isla",
+    "lastName": "Patel",
+    "address": "852 Poplar Street, Smallville",
+    "phoneNumber": "555-321-4321",
+    "position": "Business Analyst"
+  },
+  {
+    "id": 10,
+    "firstName": "Jack",
+    "lastName": "Wilson",
+    "address": "147 Fir Circle, Emerald City",
+    "phoneNumber": "555-444-5555",
+    "position": "Scrum Master"
   }
-}
+]
